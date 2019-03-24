@@ -1,0 +1,3 @@
+[submodule "tools/xlw-cmake"]
+	path = tools/xlw-cmake
+	url = https://github.com/quintron/xlw-cmake.git
